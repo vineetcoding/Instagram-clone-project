@@ -1,0 +1,26 @@
+.login{
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    /* width: 80vw; */
+    height: 100vh;
+}
+.bg_img{
+    /* border: 1px solid; */
+    width: 40%;
+    /* height: 100%; */
+    position: relative;
+}
+.carousel{
+    /* height: 455px; */
+    width: 284px;
+    position: absolute;
+    left: 90px;
+    top: 13px;
+}
+.insta_pic{
+    text-align: center;
+}
+.insta_pic img{
+    width: 80%;
+}
